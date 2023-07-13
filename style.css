@@ -1,0 +1,17 @@
+.body{
+    display:flex;
+    justify-content:space-evenly;
+  
+    object-fit: cover;
+   
+    
+    margin:80px;
+    width:100%;
+   
+   
+}
+
+
+.decimal{
+    list-style-type: decimal-leading-zero;
+}
